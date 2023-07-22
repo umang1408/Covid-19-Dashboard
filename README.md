@@ -1,2 +1,6 @@
 # Covid-19-Global-Analysis-Dashboard
-I created a thorough COVID-19 global analytic dashboard that displays total cases and fatalities globally, daily case trends from 2020 to 2023, and real-time information on those who have received the vaccine entirely and partially by the user-friendly interface, which makes it easy to explore and comprehend the effects of the worldwide epidemic.
+Developed an interactive and visually appealing dashboard to offer a comprehensive analysis of the COVID-19 pandemic
+• It utilises the vast COVID-19 datasets collection on Kaggle, which includes data on the number of cases worldwide, vaccination rates, death rates, and more
+• Using Microsoft Excel, filtered data was prepared for analysis by removing unnecessary details, blank rows and columns, and redundant data
+• Leveraging the power of MySQL, various operations were performed on filtered data to gain various insights by importing data from excel to SQL server management studio
+• The power of Power BI allow users to explore data by drilling down into specific location, year and region
