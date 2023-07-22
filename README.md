@@ -1,4 +1,4 @@
-# Covid-19-Global-Analysis-Dashboard
+# Covid-19-Global-Analysis-Dashboard (Microsoft excel, Power Bi, MySQL)
 Developed an interactive and visually appealing dashboard to offer a comprehensive analysis of the COVID-19 pandemic
 
 • It utilises the vast COVID-19 datasets collection on Kaggle, which includes data on the number of cases worldwide, vaccination rates, death rates, and more
