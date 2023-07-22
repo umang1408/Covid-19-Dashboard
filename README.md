@@ -2,6 +2,7 @@
 Developed an interactive and visually appealing dashboard to offer a comprehensive analysis of the COVID-19 pandemic
 
 • It utilises the vast COVID-19 datasets collection on Kaggle, which includes data on the number of cases worldwide, vaccination rates, death rates, and more
+
   LINK OF DATASET - https://www.kaggle.com/datasets/sandhyakrishnan02/latest-covid-19-dataset-worldwide
 
 • Using Microsoft Excel, filtered data was prepared for analysis by removing unnecessary details, blank rows and columns, and redundant data
